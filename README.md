@@ -4,5 +4,5 @@
 
 ° 🌱 I’m currently learning C/C++, Java, Javascritp, Python, Html and CSS 
 
-
+www.linkedin.com/in/joão-teodorico
 
